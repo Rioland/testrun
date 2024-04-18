@@ -94,7 +94,7 @@
           <br><br>
           <h3>Buy crypto with just a few taps</h3>
           <p>Buy Ethereum right inside MEW wallet using your bank card or Apple Pay</p>
-          <a href="#" class="btn btn-primary">BUY</a>
+          <a href="https://changelly.com/buy-crypto" class="btn btn-primary">BUY</a>
           <br><br><br>
           <h3>Own your funds</h3>
           <p>MEW has always been a client-side, truly non-custodial Ethereum interface, and the MEW wallet app carries forward this decentralized philosophy. Cryptocurrency is quite different from traditional banking — you are the only one in control of your funds, and no one can freeze your account or impose restrictions on what you do with your assets.
