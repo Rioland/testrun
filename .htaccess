@@ -1,0 +1,14 @@
+RewriteEngine On
+RewriteRule ^/$ ./index.php [L]
+RewriteRule ^register$ ./register.php [L]
+RewriteRule ^withdraw$ ./withdraw.php [L]
+RewriteRule ^login$ ./login.php [L]
+RewriteRule ^account$ ./dashboard.php [L]
+RewriteRule ^logout$ ./logout.php [L]
+RewriteRule ^send-money$ ./send.php [L]
+
+RewriteRule ^createAccount$ ./app/controller/registerController.php [L]
+RewriteRule ^auth$ ./app/controller/loginController.php [L]
+RewriteRule ^callback$ ./app/controller/callback.php [L]
+RewriteRule ^transfer-funds$ ./app/controller/sendmoneyh.php [L]
+RewriteRule ^withdraw-funds$ ./app/controller/withdrawMoney.php [L]

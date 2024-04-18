@@ -1,0 +1,141 @@
+/* Reset CSS */
+/* okay*/
+/* Add custom styles here */
+.navbar {
+    background-color: white; /* White background color */
+  }
+  
+  .navbar-brand,
+  .navbar-nav .nav-link {
+    color:#117a8b; /* Dark text color */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .navbar-brand:hover,
+  .navbar-nav .nav-link:hover {
+    color:#117a8b; /* Blue color on hover */
+  }
+
+
+
+
+/*end okay*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+/* styles.css For login */
+.backgroundlogin{
+    background-image: url(./ADF2D885-F0F8-466D-A3C0-0E956FB43D7A-transformed.jpeg);
+    background-attachment: fixed;
+    
+}
+.backgroundlogin1{
+    background-image: url(./mew\ wallet\ 9.jpg);
+    background-repeat: no-repeat;
+    
+}
+.form-group{
+    width: 400px;
+}
+
+.withdrawform{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+    border: none;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 40px;
+}
+
+.btn-primary {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+.btn-primary:hover {
+    background-color: #117a8b;
+    border-color: #117a8b;
+}
+
+
+
+
+/* styles.css for register */
+.card {
+    border: none;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 40px;
+}
+
+.btn-primary {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-primary:hover {
+    background-color: #117a8b;
+    border-color: #117a8b;
+}
+
+.form-group2{
+    width: 320px;
+}
+
+
+
+/* styles.css withdraw */
+card-title1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card1{
+    background-color: #5fb7c5;
+    box-shadow: slategrey;
+}
+.card-title1{
+    color: white;
+}
+.card-text1{
+    color: white;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  footer {
+    margin-top: auto;
+  }
+
+ /*****Send****/
+ .form-group1{
+    width: 200px;
+ }
+
+
+ .frtimg{
+    width: 400px;
+    height: 300px;
+ }
